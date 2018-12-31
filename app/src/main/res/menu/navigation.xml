@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/navigation_pl_1"
+            android:icon="@drawable/ic_person_outline_black_24dp"
+            android:iconTint="@color/pl_red"
+            android:title="@string/player_1"/>
+
+    <item
+            android:id="@+id/navigation_pl_2"
+            android:icon="@drawable/ic_person_outline_black_24dp"
+            android:iconTint="@color/pl_yellow"
+            android:title="@string/player_2"/>
+
+    <item
+            android:id="@+id/navigation_pl_3"
+            android:icon="@drawable/ic_person_outline_black_24dp"
+            android:iconTint="@color/pl_green"
+            android:title="@string/player_3"/>
+
+    <item
+            android:id="@+id/navigation_pl_4"
+            android:icon="@drawable/ic_person_outline_black_24dp"
+            android:iconTint="@color/pl_blue"
+            android:title="@string/player_4"/>
+
+    <item
+            android:id="@+id/navigation_pl_5"
+            android:icon="@drawable/ic_person_outline_black_24dp"
+            android:iconTint="@color/pl_purple"
+            android:title="@string/player_5"/>
+
+    <!--<item-->
+            <!--android:id="@+id/navigation_pl_6"-->
+            <!--android:icon="@drawable/ic_person_outline_black_24dp"-->
+            <!--android:iconTint="@color/pl_black"-->
+            <!--android:title="@string/player_6"/>-->
+
+</menu>

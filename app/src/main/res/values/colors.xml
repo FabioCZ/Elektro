@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="pl_red">#e63900</color>
+    <color name="pl_yellow">#e6e600</color>
+    <color name="pl_purple">#6600cc</color>
+    <color name="pl_blue">#0099ff</color>
+    <color name="pl_black">#000000</color>
+    <color name="pl_green">#009933</color>
+    <color name="pl_disabled">#333333</color>
+
+</resources>
